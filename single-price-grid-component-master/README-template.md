@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](./images/Screenshot%202024-11-09%20092926.png)
-![mobile](./images/Screenshot%202024-11-09%20093200.png)
+![desktop](images/desktop.png)
+![mobile](images/mobile.png)
 
 ### Links
 
