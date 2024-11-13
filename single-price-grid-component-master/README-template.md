@@ -13,8 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](/single-price-grid-component-master/images/desktop.png)
-![mobile](/single-price-grid-component-master/images/mobile.png)
+![desktop](/single-price-grid-component-master/images/desktop.png) ![mobile](/single-price-grid-component-master/images/mobile.png)
 
 ### Links
 
